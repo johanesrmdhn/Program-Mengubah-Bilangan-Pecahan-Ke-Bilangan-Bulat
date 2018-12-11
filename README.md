@@ -1,1 +1,1 @@
-# Program-Mengubah-Bilangan-Pecahan-Ke-Bilangan-Bulat
+# Program Mengubah Bilangan Pecahan Ke Bilangan Bulat
